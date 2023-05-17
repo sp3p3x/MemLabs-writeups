@@ -185,3 +185,5 @@ Converting it to uppercase,
 And there we go, the final flag!
 
 ![Alt text](assets/flag3.png)
+
+```flag{w3ll_3rd_stage_was_easy}```
